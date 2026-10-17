@@ -4,9 +4,19 @@ A drone swarm with no leader that maps a building before a disaster, searches it
 This is the project's website, built as a story you scroll through, in eight acts that follow one building through a disaster.
 
 ## Open it
-- **`index.html` is the whole site in one file.** Double-click it and it opens in the browser, offline, with no terminal and no install. Chrome or Edge work best.
-- **Online:** put this folder's contents at the root of the repository, turn on GitHub Pages (Settings, then Pages, then "Deploy from a branch", branch `main`, folder `/ (root)`) and open `https://<owner>.github.io/<repository>/` (for the deck's repository, `github.com/Akuma-no-shitai/liminal-sih2026`, that is `https://akuma-no-shitai.github.io/liminal-sih2026/`).
-- **`source.zip`** is the code `index.html` is built from, file by file (unzip it to read). You don't need it to view the site; it's there to read (and it also runs on GitHub Pages at `.../source/`).
+
+**Live site: [https://akuma-no-shitai.github.io/liminal-sih2026/](https://akuma-no-shitai.github.io/liminal-sih2026/)**
+
+Open that link in Chrome or Edge. There is nothing to install. The first visit downloads about 24 MB, so wait a few seconds for the first screen. Use "Enter with sound" for the music.
+
+**Prefer an offline copy?**
+1. Click `index.html` in the file list above.
+2. GitHub says the file is too big to show. That is normal; it is the whole site in one file. Click the **download icon** (the arrow pointing down, at the top right of the file box).
+3. Open your Downloads folder and **double-click `index.html`**. It opens in Chrome or Edge, with no internet, no terminal and no install.
+
+GitHub's own page cannot run the site; it only stores the file. Run the live link, or the downloaded copy.
+
+`source.zip` is the code `index.html` is built from, file by file. You don't need it to view the site; download and unzip it to read.
 
 ## The eight acts, in the order a disaster runs
 **The idea**
