@@ -1,5 +1,7 @@
 # LIMINAL — SIH 2026, problem statement 26223
 
+> **© 2026 Team LIMINAL. All rights reserved.** This repository is public only so that Smart India Hackathon 2026 evaluators can view the project. It is not open source: please do not copy, modify or reuse any part of it without written permission. See [LICENSE](LICENSE).
+
 A drone swarm with no leader that maps a building before a disaster, searches it during, and measures what is left after.
 This is the project's website, built as a story you scroll through, in eight acts that follow one building through a disaster.
 
